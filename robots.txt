@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zeshanalikhan.github.io/magic-76ers-play-in-preview/sitemap.xml
+
